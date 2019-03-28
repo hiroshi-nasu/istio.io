@@ -363,6 +363,8 @@ log entries for `v1` and none for `v2`:
 
     You can see request and response contents of the traffic.
 
+1. Check the output about the traffic.
+
 ## Cleaning up
 
 1.  Remove the rules:
